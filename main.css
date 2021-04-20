@@ -17,6 +17,7 @@ body {
     min-width: 485px;
     justify-content: space-evenly; 
     align-content: space-between;  
+    padding-bottom: 5%;
 }
  .main{
     display: flex;
